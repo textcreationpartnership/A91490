@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter written from Sir VVilliam Parsons, one of the lord justices of Ireland, to Sir Robert Pye, a worthy knight of the honourable House of Commons: published by his consent and other members of the said Commons House. This letter was received by Sir Robert Pye, the 9. of April.</title>
+            <author>Parsons, William, Sir, 1570?-1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91490</idno>
+            <idno type="STC">Wing P577</idno>
+            <idno type="STC">Thomason E142_20</idno>
+            <idno type="STC">ESTC R8499</idno>
+            <idno type="EEBO-CITATION">99873328</idno>
+            <idno type="PROQUEST">99873328</idno>
+            <idno type="VID">156587</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91490)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156587)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E142[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter written from Sir VVilliam Parsons, one of the lord justices of Ireland, to Sir Robert Pye, a worthy knight of the honourable House of Commons: published by his consent and other members of the said Commons House. This letter was received by Sir Robert Pye, the 9. of April.</title>
+                  <author>Parsons, William, Sir, 1570?-1650.</author>
+               </titleStmt>
+               <extent>[2], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Bartlet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156587:1" rendition="simple:additions"/>
+            <p>A LETTER <hi>WRITTEN FROM</hi> Sir VVILLIAM PARSONS, One of the Lord Juſtices of <hi>IRELAND,</hi> TO Sir ROBERT PYE, A worthy Knight of the Honourable Houſe of Commons: Publiſhed by his conſent, and other Members of the ſaid Commons Houſe.</p>
+            <p>
+               <hi>This Letter was received by Sir</hi> Robert Pye, <hi>the 9. of April.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for JOHN BARTLET. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156587:2"/>
+            <pb n="1" facs="tcp:156587:2"/>
+            <head>A LETTER VVRITTEN from Sir VVIL: PARSONS, One of the Lo: Juſtices in Ireland, to Sir HENRY PYE, a worthy Knight of the Honourable Houſe of Commons.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N ſome late Letters I troubled you with ſome of the frowning occurrents of this place; where<g ref="char:EOLhyphen"/>in I have had a heavy ſhare, as well of the ſufferings in the ill, as in my labours to fore-lay and prevent the worſt: Which la<g ref="char:EOLhyphen"/>bour, I muſt ſay, God hath wonderfully bleſt; In ſo much as now I dare avow, if England for their owne good much more then ours, will ſet in roundly to enable us under a good Governour, (if God have ſo ordained us one) we will make the miſchiefes we have ſuffered, the greateſt ad<g ref="char:EOLhyphen"/>dition to the glory, ſecurity, and happineſſe of
+<pb n="2" facs="tcp:156587:3"/> England, that ever they had by any particular action: For beſides that, we will for ever free them from the diſhonours and dammages both in men and treaſure which they have from Age to Age endured from, and by occaſion of this diſ<g ref="char:EOLhyphen"/>loyall and malignant people, the entire benefit of this unnaturall and high rebellion, ſhall in a manner redound to themſelves, by ſetling here very great multitudes of the Engliſh, which this Iſland can well receive, and give them happy and plentifull being, if God guide the conduct and concluſion of this Warre aright. I entreat you Sir conſider, if the Iriſh had gained the Ca<g ref="char:EOLhyphen"/>ſtle and City of
+<hi>Dublin,</hi> (which nothing could have hindred but the bleſſed ſudden diſcovery) and therein all the Kings Armes and Munition, and therewithall the Port-townes and Shipping of Ireland, and out of that ſtrength had ſent
+30000. men into England, as they entended; whether their ravenage (wherein they excell all men) would not have beene more loſſe to Eng<g ref="char:EOLhyphen"/>land, before they could have found competent reſiſtance, then all the money comes to, which they are now to ſend us, to reduce Ireland, and make it theirs, in a more firme way then ever it was ſince the Conqueſt. If you be ſparing to us this Summer, you hurt your ſelves and the cauſe; And therefore to our ſpeedy and round ſupplyes, I pray you put your helping hand in this act of reducement, which muſt at laſt have beene done with infinite more difficul<g ref="char:EOLhyphen"/>ty <pb n="3" facs="tcp:156587:3"/> and charge, after the above mentioned hor<g ref="char:EOLhyphen"/>rible loſſe.</p>
+            <p>I doubt not but by late Letters you have heard that we have beaten the Enemy from <hi>Tredagh:</hi> Now I muſt tell you, that a partie of that late beſieged garriſon, with the helpe of five hundred men ſent from hence, have mar<g ref="char:EOLhyphen"/>ched and taken the Port-towne of <hi>Dondalke,</hi> ſixteene miles North-wards from <hi>Tredagh,</hi> and there beaten out a thouſand Rebels, and taken the little Ordnance they had. We want men and money extreamly; when they come, I un<g ref="char:EOLhyphen"/>dertake we ſhall not miſ-apply them. It is mar<g ref="char:EOLhyphen"/>vellous to ſee how ſpiritfull our few ſouldiers that have health are, while we are not able to put ſhooes on their feet, clothes on their backs, or meat in their bellies, ſave herrings, and ſome ſalt beefe: Neither have we any money at all, which is the life of Warre. Out of all which de<g ref="char:EOLhyphen"/>fects, our ſouldiers doe ſo die daily before our fa<g ref="char:EOLhyphen"/>ces, beſides what are ſlaine, as without ſpeedy ſupplies, we ſhall not onely be fruſtrated in our promiſing beginnings, but ſpeedily ſink into a deſperate danger of utter loſſe.</p>
+            <p>I find by your late Letter to the Dutcheſſe, that you heare there, that the Earle of <hi>Antrim</hi> is in rebellion; I aſſure you Sir, it is not ſo, nei<g ref="char:EOLhyphen"/>ther I hope will be; though truly through theſe tumults, cutting betweene him and his late meanes here, he is now in great and pinching want; And, which grieves me more, the Dut<g ref="char:EOLhyphen"/>cheſſe <pb n="4" facs="tcp:156587:4"/> ſuffers very lamentably in it: For my part I have helped her what I could, but being depri<g ref="char:EOLhyphen"/>ved wholly of my poore eſtate by this rebellion, I am able to doe no more: Hereof I deſire you and her friends there to be ſenſible, and take it for a truth from</p>
+            <closer>
+               <date>1. APR. 1642.</date>
+               <signed>
+                  <hi>Your aſſured friend and ſervant,</hi> VV<hi rend="sup">m</hi> PARSONS.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:156587:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
